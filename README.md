@@ -1,6 +1,9 @@
 # -SaaS--
+Аналіз SaaS-метрик
 Розробка інтерактивної BI-системи для моніторингу фінансового стану, аналізу динаміки доходу та оптимізації SaaS-платформи.
-Аналіз SaaS-метрик та інтерактивний дашбординг
+Сторінки дашборду:
+1) https://public.tableau.com/app/profile/.70447386/viz/Book1__17848379343090/Dashboard1
+
 
 Інструменти: Tableau Public, Tableau Desktop, Excel/CSV data source.
 
