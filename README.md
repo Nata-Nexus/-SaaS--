@@ -4,6 +4,7 @@
 Сторінки дашборду:
 1) https://public.tableau.com/app/profile/.70447386/viz/Book1__17848379343090/Dashboard1
 2) https://public.tableau.com/app/profile/.70447386/viz/Book2__17848381067490/Dashboard2
+3) https://public.tableau.com/app/profile/.70447386/viz/BookNM_/Dashboard3
 
 Інструменти: Tableau Public, Tableau Desktop, Excel/CSV data source.
 
