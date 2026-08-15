@@ -3,7 +3,7 @@
 Розробка інтерактивної BI-системи для моніторингу фінансового стану, аналізу динаміки доходу та оптимізації SaaS-платформи.
 Сторінки дашборду:
 1) https://public.tableau.com/app/profile/.70447386/viz/Book1__17848379343090/Dashboard1
-
+2) https://public.tableau.com/app/profile/.70447386/viz/Book2__17848381067490/Dashboard2
 
 Інструменти: Tableau Public, Tableau Desktop, Excel/CSV data source.
 
